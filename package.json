@@ -1,0 +1,30 @@
+{
+  "name": "npm-modale-ta",
+  "version": "1.0.11",
+  "description": "Module to test module creation",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "keywords": [
+    "react",
+    "modal",
+    "notification",
+    "component",
+    "employee"
+  ],
+  "author": "Annaix Titouan <titouan.annaix@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
